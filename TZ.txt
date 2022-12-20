@@ -1,0 +1,23 @@
+---   PhoneBook  ---
+Kontaktlarni o'z ichiga olgan telefon kitoblarini boshgarish uchun Java (Dasturini) (ilovasini) tuzing.
+Telefon Kitobi yaratilganda uning nomi bo'ladi, 
+va getName() metodi orgali uning nomini olish mumkin.
+<p>                I
+Yangi kantak add() metodi orgali go'shiladi va u 3 ta o'zgaruvchi qabul qiladi: ismi, familiyasi va telefon raqami
+<p>
+Birinchi kantakni first() metodi orgali olish mumkin. Method birinchi kantakni String ko'rinishini return qiladi,
+( ismi, familiyasi va telefon raqamini return qiladi orasida bosh joy bor).
+<p>
+Har bir kontakt ro'yxatdagi o'z pozitsiyasi bilan belgilanadi, kiritilgan tartibida.
+get() metodi kantakni positsivani bo'yicha return qiladi. Method bitta o'zgaruvchi qabul qiladi
+va shu position da turgan kontakni String ko'rinishida return qiladi. Eslatma ro'yxat 1 dan boshlanadi.
+<p>
+Ro'hyatni String ko'rinishini toString() metodi orqali olish mumkin.
+Bunda har bir kantakni String ko'rinishi bo'ladi va ular ", " bilan ajratilgan.
+Ro'yhat "( " bilan boshlangan bo'lib ")" bilan tugaydi.
+<p>
+find() metodi - birinchi topilgan kantakni String ko'rinishini return qiladi.
+Method bitta bitta o'zaaruvchi qabul qiladi.
+O'zgaruvchi kantakning ismi, familivasi yoki - telefon ragami parchasi bo'lishu mumkin.
+
+
